@@ -1,5 +1,7 @@
 -- Which three teams had the losingest seasons?
 
+SELECT 
+
 -- Expected result:
 --
 -- +------+----------------------+------+--------+
